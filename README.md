@@ -41,10 +41,10 @@ This python Application Will Read QR-BarCodes
 <br>
 
 <div align="center">
-  <img width=auto height=auto src="">
+  <img width=auto height=500 src="https://user-images.githubusercontent.com/84404257/210181390-72ad96dd-27ee-4c94-a9b3-9092f8c6add9.png">
   <br>
   <br>
-  <img width=auto height=auto src="">
+  <img width=auto height=auto src="https://user-images.githubusercontent.com/84404257/210181418-f52bf83d-6045-4461-8c36-e6eea7385dd2.png">
 </div>
 
 <br>
