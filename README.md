@@ -56,7 +56,7 @@ This project is built using following technologies,
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=vscode&logoColor=bule&color=black&labelColor=green)
 
 
 ## Getting Started
