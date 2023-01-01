@@ -81,8 +81,23 @@ pip install PyQt5
 ```sh
 pip install opencv-python
 ```
-3. Run command prompt.
-4. Write the following intructions on _cmd_,
+3. Install pyzbar using pip
+```sh
+pip install pyzbar
+```
+4. Install numpy using pip
+```sh
+pip install numpy
+```
+5. Install Pillow using pip
+```sh
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
+```
+
+
+6. Run command prompt.
+7. Write the following intructions on _cmd_,
 ```sh
 $ # Assign execution permissions
 $ chmod +x main.py
@@ -124,5 +139,8 @@ Project Link: [QR Code Generator](https://github.com/imumer16/QR-BarCode-Reader)
 
 Following are the resources used in this project,
 
-* [PyQt5 - PyPI](https://pypi.org/project/PyQt5/)
-* [opencv - PyPI](https://pypi.org/project/opencv-python/)
+* [PyQt5](https://pypi.org/project/PyQt5/)
+* [opencv](https://pypi.org/project/opencv-python/)
+* [pyzbar](https://pypi.org/project/pyzbar/)
+* [numpy](https://numpy.org/)
+* [pillow](https://pillow.readthedocs.io/en/stable/)
