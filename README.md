@@ -56,7 +56,7 @@ This project is built using following technologies,
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![PyCharm](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=vscode&logoColor=bule&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=vscode&logoColor=blue&color=black&labelColor=green)
 
 
 ## Getting Started
@@ -127,12 +127,20 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Related
+
+Here is a related project,
+<br>
+[QR-Code-Generator-PY](https://github.com/imharris24/QR-Code-Generator-PY)
+</div>
+
+
 
 ## Contact
 
 Umer Ahmed - [@im_umerg](https://instagram.com/im_umerg) - umerahmed1000@gmail.com
 
-Project Link: [QR Code Generator](https://github.com/imumer16/QR-BarCode-Reader)
+Project Link: [QR-BarCode Reader](https://github.com/imumer16/QR-BarCode-Reader)
 
 
 ## Acknowledgments
